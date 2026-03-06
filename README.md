@@ -27,29 +27,34 @@
 
 - 🌟 0 followers
 - 👥 Following 0
-- 📦 0 public repositories
+- 📦 1 public repositories
 
 ### 📊 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brayo-master&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brayo-master&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brayo-master&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=brayo-master&theme=tokyonight&hide_border=true)
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brayo-master&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brayo-master&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brayo-master&theme=radical&no-frame=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=brayo-master&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 ## ✍️ Random Dev Quote
 
-> First, solve the problem. Then, write the code. - John Johnson
+> Code is like humor. When you have to explain it, it's bad. - Cory House
 
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brayo-master&theme=react-dark)
+
+## 🏆 Featured Projects
+
+### [brayo-master](https://github.com/brayo-master/brayo-master)
+My GitHub Profile
 
 ---
 
